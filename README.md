@@ -32,8 +32,8 @@ Al hacer clic en **"Sortear Amigo"**, la aplicación seleccionará aleatoriament
 
 ## 🚧 Estado del proyecto
 
-🟢 **En desarrollo activo**  
-El proyecto está funcional y se siguen agregando mejoras y optimizaciones.
+🟢 **Finalizado**  
+El proyecto está funcional y finalizado.
 
 ---
 
