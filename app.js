@@ -28,11 +28,12 @@ function sortearAmigo() {
     if (listaAmigos.length > 0) {
         let numeroRandom = Math.floor(Math.random() * listaAmigos.length);
         amigoSorteado = listaAmigos[numeroRandom];
-        document.getElementById("resultado").innerHTML = amigoSorteado;
+        document.getElementById("resultado").innerHTML = `Tu amigo secreto sorteado es: ${amigoSorteado}`;
         document.getElementById("listaAmigos").innerHTML = "";
     }
     return;
 }
+
 
 
 
